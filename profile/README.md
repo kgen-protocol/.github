@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/434149/203464264-1d0640d5-9961-42ee-8b38-013568268bbc.png)
+[![image](https://user-images.githubusercontent.com/434149/203464264-1d0640d5-9961-42ee-8b38-013568268bbc.png)](https://indi.gg)
 
 # Welcome to IndiGG
 
@@ -10,7 +10,6 @@ Important resources
 - [Become a member](https://forms.gle/cWY9dsPeBFBCPrer5) - Become a member of the next gaming revolution
 - [Twitter](https://twitter.com/IndiGG_DAO)
 - [Subscribe](https://substack.com/profile/73231811-indigg?r=17lm0z&utm_campaign=profile&utm_medium=web)
-- [Player Types Classifications](https://metanomic.notion.site/Player-Types-Classifications-6006ba06e078492aa7cf71b993de50a9)
 
 ## About IndiGG
 
