@@ -1,6 +1,6 @@
 [![image](https://user-images.githubusercontent.com/434149/203464264-1d0640d5-9961-42ee-8b38-013568268bbc.png)](https://indi.gg)
 
-# Welcome to IndiGG
+# Welcome to KGeN
 
 INDIGG HELPS GAMERS EARN REAL MONEY WHILE DOING WHAT THEY LOVE - PLAY GAMES LIKE SKYWEAVER, BLAST ROYALE, CRYPTO UNICORNS, AXIE INFINITY AND MORE
 
@@ -11,6 +11,6 @@ Important resources
 - [Twitter](https://twitter.com/IndiGG_DAO)
 - [Subscribe](https://substack.com/profile/73231811-indigg?r=17lm0z&utm_campaign=profile&utm_medium=web)
 
-## About IndiGG
+## About KGeN
 
 **IndiGG** is India’s biggest gaming guild which is building a platform for gamers to discover the future of gaming and embark on a journey into virtual worlds with digital property rights and earning rights. Alongside, IndiGG is also actively partnering with the best gaming studios globally and locally and playing a crucial role in their foray into the Indian market to build the Indian market from the ground up with high-quality Web3 games.
