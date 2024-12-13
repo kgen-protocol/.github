@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://prod-image-bucket.kgen.io/assets/kgen-logo.jpg" alt="KGeN Logo" width="400">
+  <img src="https://prod-image-bucket.kgen.io/assets/kgen-logo.jpg" alt="KGeN Logo" height="200">
 </p>
 
 # Welcome to KGeN
