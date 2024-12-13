@@ -9,7 +9,7 @@ KGeN HELPS GAMERS EARN REAL MONEY WHILE DOING WHAT THEY LOVE - PLAY GAMES LIKE S
 Important resources
 
 - [Discord](https://discord.gg/kgen) - Join our Discord community
-- [Twitter]([https://twitter.com/IndiGG_DAO](https://twitter.com/KGeN_IO))
+- [Twitter]([https://twitter.com/KGeN_IO) - Join Twitter
 - [Subscribe](https://substack.com/@kgen)
 
 ## About KGeN
