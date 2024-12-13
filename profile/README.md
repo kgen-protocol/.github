@@ -8,7 +8,6 @@ Discover KGeN, where gaming meets the future. Elevate your gaming experience by 
 
 - [Discord](https://discord.gg/kgen) - Join our Discord community
 - [Twitter](https://twitter.com/KGeN_IO) - Follow us on Twitter
-- [Subscribe](https://substack.com/@kgen)
 
 ## About KGeN
 
