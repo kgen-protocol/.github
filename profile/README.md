@@ -4,7 +4,7 @@
 
 # Welcome to KGeN
 
-KGeN HELPS GAMERS EARN REAL MONEY WHILE DOING WHAT THEY LOVE - PLAY GAMES LIKE SKYWEAVER, BLAST ROYALE, CRYPTO UNICORNS, AXIE INFINITY AND MORE
+Discover KGeN, where gaming meets the future. Elevate your gaming experience by building a gamer identity with a reputation engine powered by a gamer data chain owned by you.
 
 Important resources
 
@@ -14,4 +14,4 @@ Important resources
 
 ## About KGeN
 
-**KGeN** is India’s biggest gaming guild which is building a platform for gamers to discover the future of gaming and embark on a journey into virtual worlds with digital property rights and earning rights. Alongside, KGeN is also actively partnering with the best gaming studios globally and locally and playing a crucial role in their foray into the Indian market to build the Indian market from the ground up with high-quality Web3 games.
+**KGeN** since 2023 is building millions of micro-gaming communities across emerging markets & onramping them to web3. We want gamers to own their data and unlock its power using Proof of Gamer Engine. It is run by a team experienced in building global gaming and consumer businesses.
