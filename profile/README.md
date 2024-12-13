@@ -1,4 +1,4 @@
-[![image](https://user-images.githubusercontent.com/434149/203464264-1d0640d5-9961-42ee-8b38-013568268bbc.png)](https://indi.gg)
+[![image](https://pbs.twimg.com/profile_images/1767173755170881536/Xmxo9hCb_400x400.jpg)](https://kgen.io)
 
 # Welcome to KGeN
 
