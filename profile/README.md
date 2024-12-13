@@ -6,8 +6,6 @@
 
 Discover KGeN, where gaming meets the future. Elevate your gaming experience by building a gamer identity with a reputation engine powered by a gamer data chain owned by you.
 
-Important resources
-
 - [Discord](https://discord.gg/kgen) - Join our Discord community
 - [Twitter](https://twitter.com/KGeN_IO) - Join Twitter
 - [Subscribe](https://substack.com/@kgen)
