@@ -1,6 +1,6 @@
-<div align="center">
+<p align="center">
   <img src="https://pbs.twimg.com/profile_images/1767173755170831536/Xmxo9hCb_400x400.jpg" alt="KGeN Logo" width="400">
-</div>
+</p>
 
 # Welcome to KGeN
 
